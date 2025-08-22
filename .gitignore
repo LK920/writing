@@ -1,1 +1,7 @@
-/books/*
+# local files
+/books/
+# Ignore all .DS_Store files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store*
