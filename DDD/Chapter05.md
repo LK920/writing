@@ -15,6 +15,7 @@ tags:
   - sort
   - subselect
 aliases:
+  - repository_with_jpa
 ---
  본 문은 <도메인 주도 개발 시작하기> 도서의 챕터5(리포지터리와 모델구현)를 학습하고 정리한 내용이다.
 # 스프링 데이터 JPA를 이용한 조회 기능
